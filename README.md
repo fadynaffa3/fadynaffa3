@@ -42,7 +42,7 @@
 
 | Project | What it is |
 | --- | --- |
-| 🛤️ [**RailsOnClaude**](https://github.com/fadynaffa3/RailsOnClaude) | 19 AI assistant skills for Ruby on Rails development with Claude Code, Cursor and other AI coding tools. Install with `npx skills add fadynaffa3/RailsOnClaude`. |
+| 🛤️ [**RailsOnClaude**](https://github.com/fadynaffa3/RailsOnClaude) | 26 AI assistant skills for Ruby on Rails development with Claude Code, Cursor and other AI coding tools. Install with `npx skills add fadynaffa3/RailsOnClaude`. |
 | 🔀 [**dag_flow**](https://github.com/fadynaffa3/dag_flow) | Rails engine for conditional multi-step wizards built on a DAG: cycle detection, conditional edges, backward-navigation handling, versioning and JSON import/export. |
 | 🖼️ [**JTag Provenance Studio**](https://github.com/fadynaffa3/jtag-provenance-studio) | Notarized macOS app that scans images and Illustrator/PDF files for AI-provenance signals (C2PA, TrustMark) and signs output with Content Credentials. |
 | ↔️ [**RTLize**](https://github.com/fadynaffa3/RTLize-2) | Write stylesheets once for left-to-right layouts and get right-to-left versions automatically. Works standalone or with Rails and Sprockets. |
