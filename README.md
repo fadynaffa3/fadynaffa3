@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Fady Naffa 👋
 
-<!--
-**fadynaffa3/fadynaffa3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Staff Engineer and technical co-founder based in Amman, Jordan. I build and scale enterprise software, with 13+ years of experience across backend systems, product engineering, and engineering leadership.
 
-Here are some ideas to get you started:
+Currently at **Toptal**, I lead and mentor engineers while building production-ready AI features and reliable LLM pipelines. I focus on the systems around the models too: structured outputs, cost controls, background jobs, retries, and thorough testing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Areas of focus
+
+- Ruby on Rails, Ruby, GraphQL, and distributed backend systems
+- LLM integrations, AI agents, and production guardrails
+- Payments, including Stripe and PayPal integrations, ledgers, refunds, and invoicing
+- Technical leadership, mentorship, and building high-performing teams
+
+### Experience
+
+Toptal · Oyster · Sensor Tower · Contentful · Equiti Group · ZenHR (Technical Co-Founder) · MenaITech · Prodigi Corporation
+
+### Connect
+
+[Portfolio](https://fadynaffa3.github.io/) · [LinkedIn](https://www.linkedin.com/in/fadynaffa) · [GitHub](https://github.com/fadynaffa3) · [Email](mailto:fadynaffa3@gmail.com) · [X](https://twitter.com/fadynaffa3)
